@@ -1,4 +1,8 @@
 [English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md)
+#hi.
+I made a banner using the archlinux logo and wanted to share it with you
+I apologise in advance that my first attempt may have been bad or not symmetrical.
+
 # ServiceLogos
 Hello, good morning, good evening.
 This is a repository created by Sawaratsuki to upload logos of various services.
