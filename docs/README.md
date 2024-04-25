@@ -55,7 +55,7 @@ If you would like to sell your product officially, please send a [Direct message
 | Name | Images |
 |-------------------------------|--------|
 | [Angular](/Angular/)          | <img src="/Angular/Angular.png" width="100"/> <img src="/Angular/Angular_Old.png" width="100"/> |
-| [ArchLinuxBanner](/ArchLinux/)      | <img src="ArchLinuxBanner.png" width="100"/> |
+| [ArchLinuxBanner](/ArchLinuxBanner/)      | <img src="/ArchLinuxBanner/ArchLinuxBanner.png" width="100"/> |
 | [ArchLinux](/ArchLinux/)      | <img src="/ArchLinux/ArchLinux.png" width="100"/> |
 | [C#](/C%23/)                  | <img src="/C%23/C%23%20Purple.png" width="100"/> <img src="/C%23/C%23.png" width="100"/> |
 | [C++](/C%2B%2B/)              | <img src="/C%2B%2B/C%2B%2B.png" width="100"/> |
